@@ -29,7 +29,7 @@
 <a href="https://dev.to/deepanshu soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepanshu soni" height="30" width="40" /></a>
 <a href="https://twitter.com/dipansh62878635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipansh62878635" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/deepanshu-soni-68864b219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-soni" height="30" width="40" /></a>
-<a href="https://instagram.com/dipanshu458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu458" height="30" width="40" /></a>
+<a href="https://instagram.com/dipanshusoni.soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshusoni.soni" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uch2qnxykxkgjhli9w6nws8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
